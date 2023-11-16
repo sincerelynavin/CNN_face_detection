@@ -1,0 +1,27 @@
+[
+
+
+	{ "fileName": "facetest2.jpg", "faces": [[216,71,39,61],[435,73,55,50],[197,267,66,64],[272,272,70,55],[498,260,64,64],[321,435,79,89],[435,380,75,82]]},
+	{ "fileName": "facetest3.jpg", "faces": [[220,380,70,82],[425,279,85,84],[567,228,99,95],[792,358,78,104]]},
+	{ "fileName": "facetest5.jpg", "faces": [[282,498,141,137]]},
+	{ "fileName": "facetest8.jpg", "faces": [[241,251,129,129]]},
+	{ "fileName": "facetest9.jpg", "faces": [[372,94,60,88], [366,204,118,129]]},
+	{ "fileName": "facetest10.jpg", "faces": [[213,239,97,102],[330,417,80,83]]},
+	{ "fileName": "facetest11.jpg", "faces": [[238,199,35,66],[314,180,46,70]]},
+	{ "fileName": "facetest12.jpg", "faces": [[353,335,46,55],[344,478,51,49]]},
+	{ "fileName": "facetest13.jpg", "faces": [[254,396,38,59],[317,390,59,40]]},
+	{ "fileName": "facetest14.jpg", "faces": [[206,165,495,498]]},
+	{ "fileName": "facetest15.jpg", "faces": [[296,88,56,104]]},
+	{ "fileName": "facetest17.jpg", "faces": [[277,99,77,106],[425,134,80,117]]},
+	{ "fileName": "notfacetest1.jpg", "faces": [] },
+	{ "fileName": "notfacetest2.jpg", "faces": [] },
+	{ "fileName": "notfacetest3.jpg", "faces": [] },
+	{ "fileName": "notfacetest4.jpg", "faces": [] },
+	{ "fileName": "notfacetest5.jpg", "faces": [] },
+	{ "fileName": "notfacetest6.jpg", "faces": [] },
+	{ "fileName": "notfacetest7.jpg", "faces": [] },
+	{ "fileName": "notfacetest8.jpg", "faces": [] },
+	{ "fileName": "notfacetest9.jpg", "faces": [] },
+	{ "fileName": "notfacetest10.jpg", "faces": [] }
+	
+]
